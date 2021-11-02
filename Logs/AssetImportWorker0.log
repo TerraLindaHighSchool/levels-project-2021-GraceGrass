@@ -192,3 +192,12 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(c4f09290f43c4054d9f4e05dab10f432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a35038ff5564366041004d33464154') in 0.008618 seconds 
   Import took 0.011391 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 887.496393 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(6d8b6ba60034f9546bd555ec471eb8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(6d8b6ba60034f9546bd555ec471eb8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c55990f2a65f8c7aa2d38fe465ed7d') in 0.008507 seconds 
+  Import took 0.011529 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
